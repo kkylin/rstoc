@@ -3,7 +3,7 @@
 ## This file is part of RSTOC, a system for stochastic
 ## optimal control and experimental design written in R.
 
-## Copyright (C) 2012,2013,2014,2015,2016 by the authors:
+## Copyright (C) 2012,2013,2014,2015,2016,2017 by the authors:
 
 ## Giles Hooker <gjh27@cornell.edu>
 ## Kevin K Lin <klin@math.arizona.edu>
