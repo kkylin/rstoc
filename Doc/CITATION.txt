@@ -1,0 +1,17 @@
+If you find this software useful in your work (in part or in
+whole), please cite the following:
+
+G Hooker, KK Lin, and B Rogers, "Control theory and
+experimental design in diffusion processes," SIAM/ASA
+Journal on Uncertainty Quantification 3 (2015) pp. 234--264
+
+@article{hooker2015control,
+  title={Control theory and experimental design in diffusion processes},
+  author={Hooker, Giles and Lin, Kevin K and Rogers, Bruce},
+  journal={SIAM/ASA Journal on Uncertainty Quantification},
+  volume={3},
+  number={1},
+  pages={234--264},
+  year={2015},
+  publisher={SIAM}
+}
